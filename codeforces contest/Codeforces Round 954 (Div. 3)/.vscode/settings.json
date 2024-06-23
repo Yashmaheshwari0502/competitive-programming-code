@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "unordered_map": "cpp",
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "numeric": "cpp",
+        "queue": "cpp"
+    }
+}
